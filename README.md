@@ -10,7 +10,7 @@ They are interested in understanding the prediction of customers that will churn
 
 ## Dataset Description
 The dataset comprises 29 columns and 6,687 rows. The following are the columns in the data:
-- Customer ID
+- Customer ID 
 - Churn Label
 - Account Length (in months)
 - Local Calls
